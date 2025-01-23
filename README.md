@@ -1,1 +1,1 @@
-# Static_Aeroelastic_VLM_FEM
+This a static aeroelastic tool for the conceptual design of aircraft lifting surfaces.
