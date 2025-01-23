@@ -1,1 +1,1 @@
-This a static aeroelastic tool for the conceptual design of aircraft lifting surfaces.
+In this directory, the documentation of the static aeroelastic tool is provided.
